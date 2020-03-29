@@ -105,15 +105,15 @@ projects:
       below.
     assignments:
       - title: The Attractive Man: main
-        link: "www.theattractiveman.com"
+        link: #"www.theattractiveman.com"
         tagline: "The main website of my current employer, here we target SEO traffic and youtube traffic"
 
       - title: The Attractive Man: Secondary
-        link: "www.theattractiveman.co"
+        link: #"www.theattractiveman.co"
         tagline: "This is our other site where we send warm traffic, and opperate most of our consultation funnels."
 
       - title: PixoPixa
-        link: "www.pixopixa.com"
+        link: #"www.pixopixa.com"
         tagline: "This is my own website where I sell customized video games."
         
 publications:
