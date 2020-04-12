@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Jory Hagen
-    tagline: Front End Developer
+    tagline: ESL Teacher
     avatar: cv-photo.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -47,12 +47,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I have been working as a React Front-End Developer for the past two years
-      my job involves working with many different programs and technologies and
-      learning new things quickly on the fly. The company I work for opperates online
-      sales funnels and runs several websites that are constantly changing. I produce
-      brand new mobile optimized pages quickly, with attention paid to tracking, as well
-      as integrations to Autoresponders appointlet software and shopping cart software.
+      I have been working as an ESL Teacher for 5 years, both in the classroom and online. 
+      I have taught young children, adults and everything in between. I love teaching and
+      have developed a fascination with English grammar. I believe in the Presentation, Practice,
+      Performance method of teaching, but have used many other approaches and have learned how to adapt
+      my teaching style quickly to different learners. I look forward to continuing my career in this
+      rewarding industry.
 education:
     - degree: Bachelors of Science
       university: University of Alberta
@@ -75,65 +75,47 @@ education:
           - Graduated with honors
           - Advanced placement program
 experiences:
-    - role: React Developer
-      time: 2018 - Present
-      company: Attractive Man LLC.
+    - role: Online ESL Teacher
+      time: 2015 - Aug 2019
+      company: DaDa ABC & Kuresel Dil & A Small, Private ESL Company.
       details: |
-        It's my job to update and maintain the front end code on the react sites used by
-        my company. I also and responsible for using ActiveCampaign, google analytics, google tag
-        manager, thrivecart, appointlet, wordpress. I set up a new utm structure for the company
-        and I am in charge of all email automations. I provide a tech support role as well as 
-        writing React code.
-          - React Developer writing responsive code
-          - Diverse set of roles
-    - role: Owner Operator
-      time: 2017 - Present
-      company: PixoPixa
+        I have taught online ESL for many years, and worked for three different companies. Kuresel Dil
+        is a Turkish company where I taught advanced level adult Engineers. This position focused on 
+        advanced grammar and idioms. DaDa ABC I taught students below the age of 18, the levels ranged
+        from babies as young as 4 to teens learning advanced topics. The third company I worked for was
+        a small start up in China, the students here were children, but generally with Advanced English levels.
+          - Engaging students and matching many ability levels
+          - Preparing props and materials for lessons as needed. Tailoring lessons to students' abilities. 
+    - role: In class English Teacher.
+      time: 2015 - 2017 
+      company: Berlitz, Active English, Fengshang & Schoolhouse Language School.
       details: |
-        I make personalized video games as birthday gifts in my own company
-        Pixopixa. originally I would design and build the games case by case,
-        but it was too much work for the amount I felt comfortable charging. I
-        am not automating my site so I can reduce the cost for my customers and
-        make the buisness more profitable.
-          - Owner Operator
-          - My own ideas and designs
-projects:
-    title: Projects
-    intro: >
-      I have spent most of my time learning new technologies needed for my job, and working on my side project
-      pixopixa. I have included some of the sites I build and maintain at my work, as well as my own site, PixoPixa
-      below.
-    assignments:
-      - title: The Attractive Man Main
-        link: #"www.theattractiveman.com"
-        tagline: "The main website of my current employer, here we target SEO traffic and youtube traffic"
-
-      - title: The Attractive Man Secondary
-        link: #"www.theattractiveman.co"
-        tagline: "This is our other site where we send warm traffic, and opperate most of our consultation funnels."
-
-      - title: PixoPixa
-        link: #"www.pixopixa.com"
-        tagline: "This is my own website where I sell customized video games."
+        I taught English in two schools in Turkey and two schools in Taiwan. At Berlitz I taught adults using
+        their strict teaching methodology, the other positions involved teaching children. Each school had
+        different curriculum and requirements, so I adapted my methods to match the material and meet the needs
+        of the different age groups being taught. 
+          - Preparing Lessons and material
+          - Teaching many age groups
+          - Managing classroom discipline
         
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: React
+      - name: English Grammar
         level: 91%
 
-      - name: Javascript
+      - name: Reading and Listening Exercises
         level: 91%
 
-      - name: Vue.js
-        level: 81%
-
-      - name: HTML5 & CSS
+      - name: Phrasal Verbs and Idioms
         level: 90%
 
-      - name: Gatsby
-        level: 65%
+      - name: Spelling
+        level: 80%
 
-      - name: Node.js
-        level: 30%
+      - name: Phonetics
+        level: 77%
+
+      - name: Discipline & Classroom Management
+        level: 60%
