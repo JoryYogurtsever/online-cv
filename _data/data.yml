@@ -72,13 +72,13 @@ sidebar:
       - item: Machine Learning
         link:
         
-      - item: Quantum Computing pennylane
+      - item: Quantum Computing: pennylane
         link:
         
       - item: Quantum Machine Learning
         link:
 
-      - item: Linux Server and Client
+      - item: Linux: Server and Client
         link:
         
       - item: Digital Ocean
