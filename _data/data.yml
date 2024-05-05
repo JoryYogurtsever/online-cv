@@ -8,27 +8,27 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Jory Hagen
     tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: cv-photo.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    email: jory@joryhagen.com
+    phone: +39 329 683 91 61
+    timezone: Europe/Rome Timezone
+    citizenship: Canadian
+    website: joryhagen.com #do not add http://
+    linkedin: jory-hagen-aa5a94a5
+    #xing: alandoe
+    github: JoryYogurtsever
+    telegram: joryhagen # add your nickname without '@' sign
+    #gitlab:
+    #bitbucket:
+    #twitter: '@webjeda'
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
+    #pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
@@ -36,23 +36,66 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
-          level: Professional
+        - idiom: Turkish
+          level: Upper Intermediate
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: Italian
+          level: Basic, Learning
 
     interests:
-      title: Interests
+      title: Skills
       info:
-        - item: Climbing
-          link:
+      - item: Javascript
+        link:
 
-        - item: Snowboarding
-          link:
+      - item: React
+        link:
 
-        - item: Cooking
-          link:
+      - item: Nodejs with Express
+        link:
+
+      - item: CSS
+        link:
+
+      - item: HTML
+        link:
+        
+      - item: Mongodb
+        link:
+
+      - item: Gatsby
+        link:
+        
+      - item: Python
+        link:
+
+      - item: Machine Learning
+        link:
+        
+      - item: Quantum Computing (pennylane)
+        link:
+        
+      - item: Quantum Machine Learning
+        link:
+
+      - item: Linux: Server and Client
+        link:
+        
+      - item: Digital Ocean
+        link:
+
+      - item: Verilog
+        link:
+        
+      - item: Wordpress
+        link:
+        
+      - item: R
+        link:
+        
+      - item: FPGAs
+        link:
+
 
 career-profile:
     title: Career Profile
