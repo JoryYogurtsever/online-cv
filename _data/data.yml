@@ -72,29 +72,6 @@ sidebar:
       - item: Machine Learning
         link:
         
-      - item: Quantum Computing (pennylane)
-        link:
-        
-      - item: Quantum Machine Learning
-        link:
-
-      - item: Linux: Server and Client
-        link:
-        
-      - item: Digital Ocean
-        link:
-
-      - item: Verilog
-        link:
-        
-      - item: Wordpress
-        link:
-        
-      - item: R
-        link:
-        
-      - item: FPGAs
-        link:
 
 
 career-profile:
