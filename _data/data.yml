@@ -112,28 +112,21 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Masters Degree in Physics
+        university: University of Padua
+        time: 2022 - 2024
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          Master's Degree from Italy's top university with very highly rated Physics program. Expected to complete in October 2024.
+          High Marks in all courses so far.
+            - Current GPA: 29.3/30 Italy, 3.9/4 Canada
+            - Thesis on Quantum Machine Learning topic, mentioned below
+      - degree: Bachelor's of Science
+        university: University of Alberta
+        time: 2010 - 2015
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Finished with Double Major in Physics and Mathematics.
+            - One Term Student Exchange to the University of the West Indies, Trinidad and Tobago
+            - One Term Student Exchange to The Middle East Technical University, Turkey
 
 experiences:
     title: Experiences
