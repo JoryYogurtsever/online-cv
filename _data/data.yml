@@ -45,55 +45,55 @@ sidebar:
     interests:
       title: Skills
       info:
-      - item: Javascript,
+      - item: Javascript
         link:
 
-      - item: React,
+      - item: React
         link:
 
-      - item: Nodejs with Express,
+      - item: Nodejs with Express
         link:
 
-      - item: CSS,
+      - item: CSS
         link:
 
-      - item: HTML,
+      - item: HTML
         link:
         
-      - item: Mongodb,
+      - item: Mongodb
         link:
 
-      - item: Gatsby,
+      - item: Gatsby
         link:
         
-      - item: Python,
+      - item: Python
         link:
 
-      - item: Machine Learning,
+      - item: Machine Learning
         link:
         
-      - item: Quantum Computing (pennylane),
+      - item: Quantum Computing pennylane
         link:
         
-      - item: Quantum Machine Learning,
+      - item: Quantum Machine Learning
         link:
 
-      - item: Linux: Server and Client,
+      - item: Linux Server and Client
         link:
         
-      - item: Digital Ocean,
+      - item: Digital Ocean
         link:
 
-      - item: Verilog,
+      - item: Verilog
         link:
         
-      - item: Wordpress,
+      - item: Wordpress
         link:
         
-      - item: R,
+      - item: R
         link:
         
-      - item: FPGAs,
+      - item: FPGAs
         link:
 
 
