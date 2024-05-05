@@ -183,7 +183,7 @@ certifications:
             At this Summer Internship I explored the potential benefits that the IceCube Realtime Alert System could
             expect should they implement a Deep Neural Network Algorithm for event selection of Southern Hemisphere events.
             The internship Employed Python for the analysis and used Computing Clusters in Madisson WI. 
-        - name: React, Nodejs, Machine Learning, CSS, Javascript
+        - name: React, Nodejs, Machine Learning, CSS, Javascrip
           start: 2017 - Present
           end:
           organization: Udemy
@@ -192,6 +192,15 @@ certifications:
           credentialname: Udemy
           details: |
             A List of Certificates Obtained on Udemy for Completion of Technical Courses on aforementioned topics
+        - name: Pennylane, Certificate of Achievement
+          start: 2024
+          end:
+          organization: Pennylane
+#          credentialid: 111-222
+#          credentialurl: www.github.com
+          credentialname: Udemy
+          details: |
+            Certificates Attesting to an understanding of the fundaments of Quantum Software.
 
 projects:
     title: Projects
