@@ -118,7 +118,7 @@ education:
         details: |
           Master's Degree from Italy's top university with very highly rated Physics program. Expected to complete in October 2024.
           High Marks in all courses so far.
-            - Current GPA: 29.3/30 Italy, 3.9/4 Canada
+            - Current GPA: 29.3/30 Italy, 3.9/4.0 Canada
             - Thesis on Quantum Machine Learning topic, mentioned below
       - degree: Bachelor's of Science
         university: University of Alberta
@@ -209,25 +209,10 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: PixoPixa
+        link: "#www.pixopixa.com"
+        tagline: "This is my pet project, a website to sell personalized video games with a twist! Built with Gatsby and animations of the HTML5 canvas element, recent additions include a full drag and drop interface with CRUD operations to the mongodb database and automatic version storage in localstorage to prevent loss of information during design work on video game levels."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 #oss:
 #    title: OSS Contributions
