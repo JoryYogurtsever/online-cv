@@ -210,7 +210,7 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: PixoPixa
-        link: "#www.pixopixa.com"
+        link: #"www.pixopixa.com"
         tagline: "This is my pet project, a website to sell personalized video games with a twist! Built with Gatsby and animations of the HTML5 canvas element, recent additions include a full drag and drop interface with CRUD operations to the mongodb database and automatic version storage in localstorage to prevent loss of information during design work on video game levels."
 
 
