@@ -6,17 +6,17 @@
     {{ interests.title }}
   </h2>
 
-  <ul class="list-unstyled interests-list">
+  <div class="list-unstyled interests-list">
     {% for interest in interests.info %}
 
       {% if interest.link %}
-      <li><a href="{{ interest.link }}">{{ interest.item }}</a></li>
+      <span><a href="{{ interest.link }}">{{ interest.item }}</a></span>
       {% else %}
-      <li>{{ interest.item }}</li>
+      <span>{{ interest.item }} </span>
       {% endif %}
 
     {% endfor %}
-  </ul>
+  </div>
 
 </div><!--//interests-->
 {% endif %}
