@@ -96,6 +96,9 @@ sidebar:
       - item: FPGAs
         link:
 
+      - item: NGINX
+        link:
+
 
 career-profile:
     title: Career Profile
@@ -177,42 +180,25 @@ certifications:
       title: Internships & Certifications
       list:
         - name: University of Padua - Internal Internship
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+          start: June 2023
+          end: October 2023
+          organization: IceCube Neutrino Observatory
+#          credentialid: 111-222
+#          credentialurl: www.google.com
+          credentialname: IceCube
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
+            At this Summer Internship I explored the potential benefits that the IceCube Realtime Alert System could
+            expect should they implement a Deep Neural Network Algorithm for event selection of Southern Hemisphere events.
+            The internship Employed Python for the analysis and used Computing Clusters in Madisson WI. 
+        - name: React, Nodejs, Machine Learning, CSS, Javascript
+          start: 2017 - Present
           end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          organization: Udemy
+#          credentialid: 111-222
+#          credentialurl: www.github.com
+          credentialname: Udemy
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            A List of Certificates Obtained on Udemy for Completion of Technical Courses on aforementioned topics
 
 projects:
     title: Projects
