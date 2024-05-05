@@ -4,8 +4,8 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Jory Hagen
@@ -71,6 +71,22 @@ sidebar:
 
       - item: Machine Learning
         link:
+        
+      - item: Quantum Computing (pennylane)
+        link:
+        
+      - item: Quantum Machine Learning
+        link:
+
+      - item: Linux: Server and Client
+        link:
+        
+      - item: Digital Ocean
+        link:
+
+      - item: Verilog
+        link:
+        
         
 
 
