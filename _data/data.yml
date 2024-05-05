@@ -103,12 +103,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I have been working as a React Front-End Developer for the past two years
+      my job involves working with many different programs and technologies and
+      learning new things quickly on the fly. The company I work for opperates online
+      sales funnels and runs several websites that are constantly changing. I produce
+      brand new mobile optimized pages quickly, with attention paid to tracking, as well
+      as integrations to Autoresponders appointlet software and shopping cart software.
 education:
     title: Education
     info:
@@ -131,9 +131,9 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Lead Developer / Tech Department Head
+        time: 2021 - Present
+        company: TAM LLC, Las Vegas
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
