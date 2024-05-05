@@ -263,24 +263,12 @@ oss:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      I include here my Master's Thesis, expected to be finished by October 2024 to illustrate the topics being studied.
     papers:
-      - title: The Art of Computer Programming
+      - title: "Measurement of the cc-bar charge asymmetry with the LHCb detector and Quantum Machine Learning methods"
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: Jory Hagen
+        conference: "A study of an observable in the charm sector that may be sensitive to new physics. Quantum Machine Learning methods are employed and compared to classical Deep Neural Networks and Boosted Decision Trees"
 
 
 footer: >
