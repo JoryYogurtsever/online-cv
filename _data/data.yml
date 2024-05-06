@@ -103,12 +103,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I have been working as a React Front-End Developer for the past two years
-      my job involves working with many different programs and technologies and
-      learning new things quickly on the fly. The company I work for opperates online
-      sales funnels and runs several websites that are constantly changing. I produce
-      brand new mobile optimized pages quickly, with attention paid to tracking, as well
-      as integrations to Autoresponders appointlet software and shopping cart software.
+      I have been working in a full stack capacity for 3 years and on the front end for 6 total. I work for a small company where I am required to wear a lot of hats, my duties can span from tech support, to marketting but focus on web development. I am the person everyone comes to when they don't understand something or something goes wrong. I keep everything running smoothly, nothing is "above my pay grade". I maintain and develop the front end and the backend, manage the server using ubuntu and a reverse proxy and am constantly extending features specifically integration and tracking systems. I manage a small database and a number of cron jobs to help meet the unique needs of the company.
 education:
     title: Education
     info:
@@ -119,7 +114,7 @@ education:
           Master's Degree from Italy's top university with very highly rated Physics program. Expected to complete in October 2024.
           High Marks in all courses so far.
             - Current GPA: 29.3/30 Italy, 3.9/4.0 Canada
-            - Thesis on Quantum Machine Learning topic, mentioned below
+            - Thesis: Measurement of the cc-bar charge asymmetry with the LHCb detector and Quantum Machine Learning methods
       - degree: Bachelor's of Science
         university: University of Alberta
         time: 2010 - 2015
@@ -129,45 +124,21 @@ education:
             - One Term Student Exchange to The Middle East Technical University, Turkey
 
 experiences:
-    title: Experiences
+    title: Experience
     info:
       - role: Lead Developer / Tech Department Head
         time: 2021 - Present
         company: TAM LLC, Las Vegas
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+            - Build Nodejs backend system from scratch implemented complex call qualification and integration system allowing for higher call volume and improved show up rate for sales team with high quality leads.
+            - Created advanced alert system for new quality lead acquisition allowing call setter to contact new leads and qualify and set calls, and organize progress in well integrated CRM system
+      - role: React Developer
+        time: 2018 - 2021
+        company: TAM LLC, Las Vegas
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          - Created hundreds of responsive web pages in React Using SCSS and Server Side Rendering with a focus on collecting meaningful marketting data and accurately tracking customer journey. 
+          - Implemented sucessful pop-up funnel helping to account for ~20% increase in number of calls booked. 
+          - Set up extensive tracking system, assisting in improving successful call tracking rate by more than 20% spanning websites on more than 4 domains using cookies, and utm parameters and assisted with custom dashboard to display this data from the database
 
 certifications:
       title: Internships & Certifications
@@ -205,13 +176,15 @@ certifications:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
     assignments:
+      - title: Profile Site
+        link: #"www.joryhagen.com"
+        tagline: "while unfortunately most of my projects are tucked away in private repositories, I created this profile site to showcase some of the things I like to play with especially on the front end."
       - title: PixoPixa
         link: #"www.pixopixa.com"
         tagline: "This is my pet project, a website to sell personalized video games with a twist! Built with Gatsby and animations of the HTML5 canvas element, recent additions include a full drag and drop interface with CRUD operations to the mongodb database and automatic version storage in localstorage to prevent loss of information during design work on video game levels."
+
 
 
 #oss:
