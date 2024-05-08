@@ -103,7 +103,15 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I have been working in a full stack capacity for 3 years and on the front end for 6 total. I work for a small company where I am required to wear a lot of hats, my duties can span from tech support, to marketting but focus on web development. I am the person everyone comes to when they don't understand something or something goes wrong. I keep everything running smoothly, nothing is "above my pay grade". I maintain and develop the front end and the backend, manage the server using ubuntu and a reverse proxy and am constantly extending features specifically integration and tracking systems. I manage a small database and a number of cron jobs to help meet the unique needs of the company.
+      I have been working in a full stack capacity for 3 years and on the front end for 6 total. I work for a small company where I am required to wear a lot of hats, my duties can span from tech support, 
+      to marketting but focus on web development. I am the person everyone comes to when they don't understand something or something goes wrong. I keep everything running smoothly, nothing is "above my pay grade". 
+      I maintain and develop the front end and the backend, manage the server using ubuntu and a reverse proxy and am constantly extending features specifically integration and tracking systems. I manage a small 
+      database and a number of cron jobs to help meet the unique needs of the company.
+
+#      I've spent six years working in development and tech and in that time I've had to adapt a lot and wear many hats. I've worked with both client and server side code in some detail as well as a diverse range
+#      of tasks needed to keep a web based company funcitonal and competitive in the current market. Recently I decided to aquire a Master's degree in physics and took the opportunity to also focus on machine learning
+#      quantum computing and even the 2 in combination, as was a major topic in my thesis. I am ready for a new challenge leveraging my coding background and new machine learning knowledge to be a powerful asset to
+#      your team!
 
 experiences:
     title: Experience
@@ -119,7 +127,7 @@ experiences:
         company: TAM LLC, Las Vegas
         details: |
           - Created hundreds of responsive web pages in React Using SCSS and Server Side Rendering with a focus on collecting meaningful marketting data and accurately tracking customer journey. 
-          - Implemented sucessful pop-up funnel helping to account for ~20% increase in number of calls booked. 
+          - Implemented sucessful pop-up funnel helping to account for significant increase in number of calls booked. 
           - Set up extensive tracking system, assisting in improving successful call tracking rate by more than 20% spanning websites on more than 4 domains using cookies, and utm parameters and assisted with custom dashboard to display this data from the database
 
 education:
