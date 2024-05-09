@@ -121,14 +121,13 @@ experiences:
         company: TAM LLC, Las Vegas
         details: |
             - Build Nodejs backend system from scratch implemented complex call qualification and integration system allowing for higher call volume and improved show up rate for sales team with high quality leads.
-            - Created advanced alert system for new quality lead acquisition allowing call setter to contact new leads and qualify and set calls, and organize progress in well integrated CRM system
+            - Created advanced alert system for new lead acquisition allowing call setter to contact new leads and easily set calls, and organize progress in well integrated CRM system
       - role: React Developer
         time: 2018 - 2021
         company: TAM LLC, Las Vegas
         details: |
-          - Created hundreds of responsive web pages in React Using SCSS and Server Side Rendering with a focus on collecting meaningful marketting data and accurately tracking customer journey. 
-          - Implemented sucessful pop-up funnel helping to account for significant increase in number of calls booked. 
-          - Set up extensive tracking system, assisting in improving successful call tracking rate by more than 20% spanning websites on more than 4 domains using cookies, and utm parameters and assisted with custom dashboard to display this data from the database
+          - Created hundreds of responsive web pages in React Using SASS and Server Side Rendering with a focus on collecting meaningful marketting data and accurately tracking customer journey. 
+          - Improved rate of accurately tracked sales calls by 20% using advanced cross-domain custom tracking methods.
 
 education:
     title: Education
@@ -145,41 +144,39 @@ education:
         time: 2010 - 2015
         details: |
           Finished with Double Major in Physics and Mathematics.
-            - One Term Student Exchange to the University of the West Indies, Trinidad and Tobago
-            - One Term Student Exchange to The Middle East Technical University, Turkey
 
-certifications:
-      title: Internships & Certifications
-      list:
-        - name: University of Padua - Internal Internship
-          start: June 2023
-          end: October 2023
-          organization: IceCube Neutrino Observatory
-#          credentialid: 111-222
-#          credentialurl: www.google.com
-          credentialname: IceCube
-          details: |
-            At this Summer Internship I explored the potential benefits that the IceCube Realtime Alert System could
-            expect should they implement a Deep Neural Network Algorithm for event selection of Southern Hemisphere events.
-            The internship Employed Python for the analysis and used Computing Clusters in Madisson WI. 
-        - name: React, Nodejs, Machine Learning, CSS, Javascript
-          start: 2017 - Present
-          end:
-          organization: Udemy
+#certifications:
+#      title: Internships & Certifications
+#      list:
+#        - name: University of Padua - Internal Internship
+#          start: June 2023
+#          end: October 2023
+#          organization: IceCube Neutrino Observatory
+##          credentialid: 111-222
+##          credentialurl: www.google.com
+#          credentialname: IceCube
+#          details: |
+#            At this Summer Internship I explored the potential benefits that the IceCube Realtime Alert System could
+#            expect should they implement a Deep Neural Network Algorithm for event selection of Southern Hemisphere events.
+#            The internship Employed Python for the analysis and used Computing Clusters in Madisson WI. 
+#        - name: React, Nodejs, Machine Learning, CSS, Javascript
+#          start: 2017 - Present
+#          end:
+#          organization: Udemy
+##          credentialid: 111-222
+##          credentialurl: www.github.com
+#          credentialname: Udemy
+#          details: |
+#            A List of Certificates Obtained on Udemy for Completion of Technical Courses on aforementioned topics
+#        - name: Pennylane, Certificate of Achievement
+#          start: 2024
+#          end:
+#          organization: Pennylane
 #          credentialid: 111-222
 #          credentialurl: www.github.com
-          credentialname: Udemy
-          details: |
-            A List of Certificates Obtained on Udemy for Completion of Technical Courses on aforementioned topics
-        - name: Pennylane, Certificate of Achievement
-          start: 2024
-          end:
-          organization: Pennylane
-#          credentialid: 111-222
-#          credentialurl: www.github.com
-          credentialname: Udemy
-          details: |
-            Certificates Attesting to an understanding of the fundaments of Quantum Software.
+#          credentialname: Udemy
+#          details: |
+#            Certificates Attesting to an understanding of the fundaments of Quantum Software.
 
 projects:
     title: Projects
