@@ -209,13 +209,13 @@ certifications:
 #        link: "#"
 #        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      I include here my Master's Thesis, expected to be finished by October 2024.
-    papers:
-      - title: "Measurement of the cc-bar charge asymmetry with the LHCb detector and Quantum Machine Learning methods"
-        conference: "A study of an observable in the charm sector that may be sensitive to new physics. Quantum Machine Learning methods are employed and compared to classical Deep Neural Networks and Boosted Decision Trees"
+#publications:
+#    title: Publications
+#    intro: |
+#      I include here my Master's Thesis, expected to be finished by October 2024.
+#    papers:
+#      - title: "Measurement of the cc-bar charge asymmetry with the LHCb detector and Quantum Machine Learning methods"
+#        conference: "A study of an observable in the charm sector that may be sensitive to new physics. Quantum Machine Learning methods are employed and compared to classical Deep Neural Networks and Boosted Decision Trees"
 
 
 footer: >
