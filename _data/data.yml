@@ -143,50 +143,50 @@ education:
         details: |
           Finished with Double Major in Physics and Mathematics.
 
-#certifications:
-#      title: Internships & Certifications
-#      list:
-#        - name: University of Padua - Internal Internship
-#          start: June 2023
-#          end: October 2023
-#          organization: IceCube Neutrino Observatory
-##          credentialid: 111-222
-##          credentialurl: www.google.com
-#          credentialname: IceCube
-#          details: |
-#            At this Summer Internship I explored the potential benefits that the IceCube Realtime Alert System could
-#            expect should they implement a Deep Neural Network Algorithm for event selection of Southern Hemisphere events.
-#            The internship Employed Python for the analysis and used Computing Clusters in Madisson WI. 
-#        - name: React, Nodejs, Machine Learning, CSS, Javascript
-#          start: 2017 - Present
-#          end:
-#          organization: Udemy
-##          credentialid: 111-222
-##          credentialurl: www.github.com
-#          credentialname: Udemy
-#          details: |
-#            A List of Certificates Obtained on Udemy for Completion of Technical Courses on aforementioned topics
-#        - name: Pennylane, Certificate of Achievement
-#          start: 2024
-#          end:
-#          organization: Pennylane
+certifications:
+      title: Internships & Certifications
+      list:
+        - name: University of Padua - Internal Internship
+          start: June 2023
+          end: October 2023
+          organization: IceCube Neutrino Observatory
+#          credentialid: 111-222
+#          credentialurl: www.google.com
+          credentialname: IceCube
+          details: |
+            At this Summer Internship I explored the potential benefits that the IceCube Realtime Alert System could
+            expect should they implement a Deep Neural Network Algorithm for event selection of Southern Hemisphere events.
+            The internship Employed Python for the analysis and used Computing Clusters in Madisson WI. 
+        - name: React, Nodejs, Machine Learning, CSS, Javascript
+          start: 2017 - Present
+          end:
+          organization: Udemy
 #          credentialid: 111-222
 #          credentialurl: www.github.com
-#          credentialname: Udemy
-#          details: |
-#            Certificates Attesting to an understanding of the fundaments of Quantum Software.
+          credentialname: Udemy
+          details: |
+            A List of Certificates Obtained on Udemy for Completion of Technical Courses on aforementioned topics
+        - name: Pennylane, Certificate of Achievement
+          start: 2024
+          end:
+          organization: Pennylane
+          credentialid: 111-222
+          credentialurl: www.github.com
+          credentialname: Udemy
+          details: |
+            Certificates Attesting to an understanding of the fundaments of Quantum Software.
 
-projects:
-    title: Projects
-    intro: >
+#projects:
+#    title: Projects
+#    intro: >
 
-    assignments:
-      - title: Profile Site
-        link: #"www.joryhagen.com"
-        tagline: "while unfortunately most of my projects are tucked away in private repositories, I created this profile site to showcase some of the things I like to experiment with especially on the front end."
-      - title: PixoPixa
-        link: #"www.pixopixa.com"
-        tagline: "This is my pet project, a website to sell personalized video games with a twist! Built with Gatsby and animations of the HTML5 canvas element, recent additions include a full drag and drop interface with CRUD operations to the mongodb database and automatic version storage in localstorage to prevent loss of information during design work on video game levels."
+#    assignments:
+#      - title: Profile Site
+#        link: #"www.joryhagen.com"
+#        tagline: "while unfortunately most of my projects are tucked away in private repositories, I created this profile site to showcase some of the things I like to experiment with especially on the front end."
+#      - title: PixoPixa
+#        link: #"www.pixopixa.com"
+#        tagline: "This is my pet project, a website to sell personalized video games with a twist! Built with Gatsby and animations of the HTML5 canvas element, recent additions include a full drag and drop interface with CRUD operations to the mongodb database and automatic version storage in localstorage to prevent loss of information during design work on video game levels."
 
 
 
